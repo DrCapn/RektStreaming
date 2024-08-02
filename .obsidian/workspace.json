@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Scratch/Ideas.md",
+                "file": "1-Resources/Music.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Scratch/Music.md",
+                "file": "0-Scratch/DrCapn's Thawts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Scratch/Music.md",
+                "file": "1-Resources/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Scratch/Music.md",
+                "file": "1-Resources/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Scratch/Music.md"
+                "file": "1-Resources/Links.md"
               }
             }
           }
@@ -173,10 +172,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43b08b9f5b86efa6",
+  "active": "4554c387b0c8d5a0",
   "lastOpenFiles": [
+    "1-Resources/Music.md",
+    "1-Resources/Links.md",
+    "0-Scratch/Ideas.md",
+    "0-Scratch/DrCapn's Thawts.md",
+    "0-Scratch/dumping.md",
     "0-Scratch/Last Time ....md",
-    "0-Scratch/Music.md",
     "0-Scratch/Message just for YOU.md",
     "4-Game Dev Learning/Scratch.md",
     "RektStreaming",
@@ -192,17 +195,13 @@
     "2-Projects/Sites App.md",
     "2-Projects/Ed Game Platform.md",
     "spongebob.gif",
-    "0-Scratch/DrCapn's Thawts.md",
     "0-Scratch/While you were gone....md",
-    "0-Scratch/dumping.md",
     "3-Tutorial Tuesdays/Tutorial Listings.md",
     "3-Tutorial Tuesdays/Today fer sure.md",
     "5-SW Arts & Assets",
     "4-Game Dev Learning",
     "3-Tutorial Tuesdays",
-    "0-Scratch/Ideas.md",
     "0-Scratch",
-    "1-Resources/Links.md",
     "Welcome.md",
     "2-Projects",
     "1-Resources"
