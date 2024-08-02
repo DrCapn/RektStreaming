@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Game Dev Learning/Scratch.md",
+                "file": "0-Scratch/Music.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Game Dev Learning/Scratch.md",
+                "file": "0-Scratch/Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Game Dev Learning/Scratch.md",
+                "file": "0-Scratch/Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Game Dev Learning/Scratch.md"
+                "file": "0-Scratch/Music.md"
               }
             }
           }
@@ -169,15 +169,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "43b08b9f5b86efa6",
   "lastOpenFiles": [
+    "0-Scratch/Last Time ....md",
+    "0-Scratch/Music.md",
+    "0-Scratch/Message just for YOU.md",
+    "4-Game Dev Learning/Scratch.md",
     "RektStreaming",
     "4-Game Dev Learning/Technical Notes.md",
     "4-Game Dev Learning/Terminology.md",
-    "4-Game Dev Learning/Scratch.md",
     "4-Game Dev Learning/Game Design Models.md",
     "Screenshot 2024-08-01 at 12.02.15 PM 1.png",
     "Screenshot 2024-08-01 at 12.02.15 PM.png",
@@ -193,12 +197,9 @@
     "0-Scratch/dumping.md",
     "3-Tutorial Tuesdays/Tutorial Listings.md",
     "3-Tutorial Tuesdays/Today fer sure.md",
-    "0-Scratch/Message just for YOU.md",
     "5-SW Arts & Assets",
     "4-Game Dev Learning",
-    "0-Scratch/Music.md",
     "3-Tutorial Tuesdays",
-    "0-Scratch/Last Time ....md",
     "0-Scratch/Ideas.md",
     "0-Scratch",
     "1-Resources/Links.md",
